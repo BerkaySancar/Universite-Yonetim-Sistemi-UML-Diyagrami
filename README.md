@@ -12,4 +12,4 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-[click here to open diagram...](https://github.com/BerkaySancar/Universite-Yonetim-Sistemi-UML-Diyagrami/blob/main/uml.png)
+[Diyagramı açmak için tıklayın.](https://github.com/BerkaySancar/Universite-Yonetim-Sistemi-UML-Diyagrami/blob/main/uml.png)
